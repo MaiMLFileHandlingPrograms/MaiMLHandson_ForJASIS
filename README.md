@@ -5,7 +5,7 @@
 
 
 ### ダウンロード方法
-- 画面緑色のボタン（<>Code）をクリックし、最下の「Download ZIP」を選択
+- 画面上部にある緑色のボタン（<>Code）をクリックし、最下の「Download ZIP」を選択
 - ダウンロードされたZIPファイルを展開し、それぞれの環境に合ったZIPを展開
   - windowsユーザの方：MaiMLHandsON_JASIS2025_windows.zip 
   - macユーザの方：MaiMLHandsON_JASIS2025_mac.zip
