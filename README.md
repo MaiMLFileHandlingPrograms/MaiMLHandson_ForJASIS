@@ -11,4 +11,4 @@
   - macユーザの方：MaiMLHandsON_JASIS2025_mac.zip
   
 ### パッケージ内容や実行方法
-- JASIS展にて
+- JASIS展にて紹介
