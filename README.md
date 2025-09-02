@@ -1,0 +1,2 @@
+# MaiMLHandson_ForJASIS
+JASIS展2025で配布するMaiMLハンズオンパッケージ
